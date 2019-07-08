@@ -5,7 +5,7 @@
 //Class: Monster_Action
 	public void SetHP(int dmg)
 	{
-		this.current_hitpoint -= dmg * 999;
+		this.current_hitpoint -= dmg * 999; //<---
 		if (this.current_hitpoint > this.Hit_point)
 		{
 			this.current_hitpoint = this.Hit_point;
