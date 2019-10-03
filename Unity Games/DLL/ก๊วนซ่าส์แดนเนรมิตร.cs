@@ -8,7 +8,7 @@
 //Class: UIRoot
 public void OnGUI()
 {
-	ModMenu.ButtonMenu();
+	ModMenu.OnGUI();
 }
 
 //When use high dmg, must use with god mode
