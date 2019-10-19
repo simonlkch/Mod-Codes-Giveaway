@@ -1,6 +1,6 @@
-//Game: Dragon Spear
-//Version: 1.25
-//APK: https://apkpure.com/dragon-spear/com.entermate.dragonspear
+//Game: Doom Watch
+//Version: 1.1.6.0
+//APK: https://apkpure.com/doom-watch/com.idreamsky.doomwatch.gp
 
 //Calling Mod menu
 //mscorelib
