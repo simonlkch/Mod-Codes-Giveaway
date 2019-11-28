@@ -4,7 +4,7 @@
 
 //protobufData.dll
 
-//BattleSerFighter
+//Class: BattleSerFighter
 	public int baseHp
 		{
 			get
